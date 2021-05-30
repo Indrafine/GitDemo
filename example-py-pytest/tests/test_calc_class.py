@@ -14,6 +14,7 @@ from com.automationpanda.example.calc_class import Calculator
 NUMBER_1 = 3.0
 NUMBER_2 = 2.0
 NUMBER_3 = 3.0
+NUMBER_dev_branch = 4.0
 
 
 # Fixtures
